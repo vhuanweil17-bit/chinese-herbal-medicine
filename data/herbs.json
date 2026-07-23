@@ -1,0 +1,222 @@
+[
+  {
+    "name": "黄芪",
+    "pinyin": "huáng qí",
+    "category": "补气药",
+    "properties": "甘，温",
+    "meridian": "脾、肺经",
+    "effects": "补气升阳，固表止汗，利水消肿，生津养血，行滞通痹，托毒排脓，敛疮生肌",
+    "usage": "9～30g",
+    "contraindications": "表实邪盛、内有积滞、阴虚阳亢者慎用",
+    "related": ["党参", "白术", "当归"]
+  },
+  {
+    "name": "当归",
+    "pinyin": "dāng guī",
+    "category": "补血药",
+    "properties": "甘、辛，温",
+    "meridian": "肝、心、脾经",
+    "effects": "补血活血，调经止痛，润肠通便",
+    "usage": "6～12g",
+    "contraindications": "湿盛中满、大便溏泄者慎用；孕妇慎用",
+    "related": ["川芎", "白芍", "熟地黄"]
+  },
+  {
+    "name": "甘草",
+    "pinyin": "gān cǎo",
+    "category": "补气药",
+    "properties": "甘，平",
+    "meridian": "心、肺、脾、胃经",
+    "effects": "补脾益气，清热解毒，祛痰止咳，缓急止痛，调和诸药",
+    "usage": "2～10g",
+    "contraindications": "不宜与海藻、京大戟、红大戟、甘遂、芫花同用；湿盛胀满者慎用",
+    "related": ["白芍", "桂枝", "人参"]
+  },
+  {
+    "name": "人参",
+    "pinyin": "rén shēn",
+    "category": "补气药",
+    "properties": "甘、微苦，微温",
+    "meridian": "脾、肺、心、肾经",
+    "effects": "大补元气，复脉固脱，补脾益肺，生津养血，安神益智",
+    "usage": "3～9g（另煎兑服）",
+    "contraindications": "实证、热证、湿热内盛者忌服；不宜与藜芦、五灵脂同用",
+    "related": ["黄芪", "白术", "麦冬"]
+  },
+  {
+    "name": "枸杞子",
+    "pinyin": "gǒu qǐ zǐ",
+    "category": "补阴药",
+    "properties": "甘，平",
+    "meridian": "肝、肾经",
+    "effects": "滋补肝肾，益精明目",
+    "usage": "6～12g",
+    "contraindications": "外邪实热、脾虚有湿及泄泻者忌服",
+    "related": ["菊花", "熟地黄", "菟丝子"]
+  },
+  {
+    "name": "金银花",
+    "pinyin": "jīn yín huā",
+    "category": "清热解毒药",
+    "properties": "甘，寒",
+    "meridian": "肺、心、胃经",
+    "effects": "清热解毒，疏散风热",
+    "usage": "6～15g",
+    "contraindications": "脾胃虚寒及疮疡脓清者忌服",
+    "related": ["连翘", "蒲公英", "板蓝根"]
+  },
+  {
+    "name": "茯苓",
+    "pinyin": "fú líng",
+    "category": "利水渗湿药",
+    "properties": "甘、淡，平",
+    "meridian": "心、肺、脾、肾经",
+    "effects": "利水渗湿，健脾，宁心",
+    "usage": "10～15g",
+    "contraindications": "虚寒精滑者忌服",
+    "related": ["白术", "猪苓", "泽泻"]
+  },
+  {
+    "name": "陈皮",
+    "pinyin": "chén pí",
+    "category": "理气药",
+    "properties": "苦、辛，温",
+    "meridian": "脾、肺经",
+    "effects": "理气健脾，燥湿化痰",
+    "usage": "3～10g",
+    "contraindications": "实热证、津亏口渴者慎用",
+    "related": ["半夏", "茯苓", "白术"]
+  },
+  {
+    "name": "丹参",
+    "pinyin": "dān shēn",
+    "category": "活血化瘀药",
+    "properties": "苦，微寒",
+    "meridian": "心、肝经",
+    "effects": "活血祛瘀，通经止痛，清心除烦，凉血消痈",
+    "usage": "10～15g",
+    "contraindications": "孕妇慎用；不宜与藜芦同用",
+    "related": ["川芎", "红花", "三七"]
+  },
+  {
+    "name": "黄芩",
+    "pinyin": "huáng qín",
+    "category": "清热燥湿药",
+    "properties": "苦，寒",
+    "meridian": "肺、胆、脾、大肠、小肠经",
+    "effects": "清热燥湿，泻火解毒，止血，安胎",
+    "usage": "3～10g",
+    "contraindications": "脾胃虚寒、食少便溏者忌用",
+    "related": ["黄连", "黄柏", "栀子"]
+  },
+  {
+    "name": "麦冬",
+    "pinyin": "mài dōng",
+    "category": "补阴药",
+    "properties": "甘、微苦，微寒",
+    "meridian": "心、肺、胃经",
+    "effects": "养阴润肺，益胃生津，清心除烦",
+    "usage": "6～12g",
+    "contraindications": "脾胃虚寒泄泻、风寒咳嗽者忌服",
+    "related": ["沙参", "玉竹", "五味子"]
+  },
+  {
+    "name": "白芍",
+    "pinyin": "bái sháo",
+    "category": "补血药",
+    "properties": "苦、酸，微寒",
+    "meridian": "肝、脾经",
+    "effects": "养血调经，敛阴止汗，柔肝止痛，平抑肝阳",
+    "usage": "6～15g",
+    "contraindications": "阳衰虚寒之证不宜单用；不宜与藜芦同用",
+    "related": ["当归", "川芎", "甘草"]
+  },
+  {
+    "name": "桂枝",
+    "pinyin": "guì zhī",
+    "category": "解表药（辛温解表）",
+    "properties": "辛、甘，温",
+    "meridian": "心、肺、膀胱经",
+    "effects": "发汗解肌，温通经脉，助阳化气，平冲降气",
+    "usage": "3～10g",
+    "contraindications": "温热病、阴虚阳盛、血热妄行者忌用；孕妇慎用",
+    "related": ["白芍", "麻黄", "生姜"]
+  },
+  {
+    "name": "白术",
+    "pinyin": "bái zhú",
+    "category": "补气药",
+    "properties": "苦、甘，温",
+    "meridian": "脾、胃经",
+    "effects": "健脾益气，燥湿利水，止汗，安胎",
+    "usage": "6～12g",
+    "contraindications": "阴虚燥渴、气滞胀闷者忌用",
+    "related": ["茯苓", "黄芪", "党参"]
+  },
+  {
+    "name": "川芎",
+    "pinyin": "chuān xiōng",
+    "category": "活血化瘀药",
+    "properties": "辛，温",
+    "meridian": "肝、胆、心包经",
+    "effects": "活血行气，祛风止痛",
+    "usage": "3～10g",
+    "contraindications": "阴虚火旺、月经过多者慎用；孕妇慎用",
+    "related": ["当归", "赤芍", "红花"]
+  },
+  {
+    "name": "菊花",
+    "pinyin": "jú huā",
+    "category": "解表药（辛凉解表）",
+    "properties": "甘、苦，微寒",
+    "meridian": "肺、肝经",
+    "effects": "疏散风热，平抑肝阳，清肝明目，清热解毒",
+    "usage": "5～10g",
+    "contraindications": "气虚胃寒、食少泄泻者慎用",
+    "related": ["枸杞子", "桑叶", "薄荷"]
+  },
+  {
+    "name": "山楂",
+    "pinyin": "shān zhā",
+    "category": "消食药",
+    "properties": "酸、甘，微温",
+    "meridian": "脾、胃、肝经",
+    "effects": "消食健胃，行气散瘀，化浊降脂",
+    "usage": "9～12g",
+    "contraindications": "胃酸过多、脾胃虚弱者慎用；孕妇慎用",
+    "related": ["神曲", "麦芽", "陈皮"]
+  },
+  {
+    "name": "黄连",
+    "pinyin": "huáng lián",
+    "category": "清热燥湿药",
+    "properties": "苦，寒",
+    "meridian": "心、脾、胃、肝、胆、大肠经",
+    "effects": "清热燥湿，泻火解毒",
+    "usage": "2～5g",
+    "contraindications": "脾胃虚寒、阴虚津伤者慎用",
+    "related": ["黄芩", "黄柏", "栀子"]
+  },
+  {
+    "name": "党参",
+    "pinyin": "dǎng shēn",
+    "category": "补气药",
+    "properties": "甘，平",
+    "meridian": "脾、肺经",
+    "effects": "健脾益肺，养血生津",
+    "usage": "9～30g",
+    "contraindications": "实证、热证者不宜单用；不宜与藜芦同用",
+    "related": ["黄芪", "白术", "茯苓"]
+  },
+  {
+    "name": "山药",
+    "pinyin": "shān yào",
+    "category": "补气药",
+    "properties": "甘，平",
+    "meridian": "脾、肺、肾经",
+    "effects": "补脾养胃，生津益肺，补肾涩精",
+    "usage": "15～30g",
+    "contraindications": "湿盛中满、有积滞者慎用",
+    "related": ["白术", "茯苓", "芡实"]
+  }
+]
